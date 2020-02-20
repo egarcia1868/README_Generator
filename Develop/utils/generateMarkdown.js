@@ -8,7 +8,7 @@ ${data.description}
 
 ## Installation
 
-${data.depCom}
+To install the required dependencies, run the following command: "${data.depCom}"
 
 ## Usage 
 
@@ -17,24 +17,10 @@ ${data.needToKnow}
 ## Credits
 
 ${data.github}
-----------------List your collaborators, if any, with links to their GitHub profiles.
-
-If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
-
-If you followed tutorials, include links to those here as well.
-
-
 
 ## License
 
-${data.license}  vvprobably need to do something with this down there.
-
----
-
-
----------## Badges
-
-![badmath](https://img.shields.io/github/languages/top/nielsenjared/badmath)
+${ansURL} 
 
 ## Contributing
 
@@ -42,7 +28,12 @@ ${data.contribute}
 
 ## Tests
 
-${data.testCom}
+To run my tests, run the following command: "${data.testCom}"
+
+## Questions
+
+Reach out to [egarcia1868](https://github.com/egarcia1868) for questions or concerns.
+`
 
 }
 

@@ -62,11 +62,11 @@ function generateMarkdown(src1, src2, src3) {
 
   ## Credits
 
-  ${src1.github}
+  [${src1.github}](https://github.com/${src1.github})
 
   ## License
 
-  ${src2.ansURL} 
+  ${src2} 
 
   ## Contributing
 
@@ -78,7 +78,7 @@ function generateMarkdown(src1, src2, src3) {
 
   ## Questions
 
-  <img src="${src3.avatar_url}" alt="avatar" style="width=58px"> Reach out to [${src1.github}](https://github.com/${src1.github}) for questions or concerns.
+  <img src="${src3.avatar_url}" alt="avatar" style="width:58px"> Reach out to [${src1.github}](https://github.com/${src1.github}) for questions or concerns.
   `
 
 }

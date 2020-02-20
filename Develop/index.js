@@ -1,4 +1,6 @@
-const inquirer = require("inquirer")
+const inquirer = require("inquirer");
+const fs = require("fs");
+const axios = require("axios");
 
 const questions = [{
     type: "input",
@@ -14,30 +16,42 @@ const questions = [{
     name: "description"
   },{
     type: "list",
+    name: "license",
     message: "What kind of license should your project have?",
-    choices: ""
+    choices: ["Apache 2.0", "BSD 3-Clause", "EPL 1.0", "GPL v3"]
   },{
-    type: "tinput",
+    type: "input",
     message: "What command should be run to install dependencies? (default to \"npm i\" if user doesn't respond)",
     name: "depCom"
   },{
+    type: "input",
     message: "What command should be run to run tests? (default to \"npm test\" if user doesn't respond)",
     name: "testCom"
   },{
+    type: "input",
     message: "What does the user need to know about using the repo?",
     name: "needToKnow"
   },{
+    type: "input",
     message: "What does the user need to know about contributing to the repo?",
     name: "contribute"
   }
 ];
 
 function writeToFile(fileName, data) {
-  
+  fs.writeFile("README.md", "./generateMarkdown.js", function(err) {
+    if(err) {
+      throw err;
+    }
+    console.log("Written to README!")
+  })
 }
 
 function init() {
-
+  // questions.forEach( question => {
+  // inquirer
+  // .prompt({question}).then( () => )
+  // })
 }
 
 init();

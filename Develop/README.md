@@ -1,9 +1,9 @@
 
-  # ReadGen
+  # testeroni
 
   ## Description 
 
-  short paragraph
+  tester
 
   ## Installation
 
@@ -11,7 +11,7 @@
 
   ## Usage 
 
-  nada
+  testeroni
 
   ## Credits
 
@@ -19,11 +19,11 @@
 
   ## License
 
-  [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)] 
+  [![License](https://img.shields.io/badge/License-EPL%201.0-red.svg)](https://opensource.org/licenses/EPL-1.0)] 
 
   ## Contributing
 
-  plenty
+  test
 
   ## Tests
 
@@ -31,5 +31,5 @@
 
   ## Questions
 
-  <img src="https://avatars3.githubusercontent.com/u/25162871?v=4" alt="avatar" style="width:58px"> Reach out to [egarcia1868](https://github.com/egarcia1868) for questions or concerns.
+  <img src="https://avatars3.githubusercontent.com/u/25162871?v=4" alt="avatar" style="border-radius:58px"> Reach out to [egarcia1868](https://github.com/egarcia1868) for questions or concerns.
   

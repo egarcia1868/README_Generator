@@ -1,9 +1,9 @@
 
-  # README_Generator
+  # ReadGen
 
   ## Description 
 
-  By running this app in node, a README file will be generated using the answers to the questions prompted.
+  short paragraph
 
   ## Installation
 
@@ -15,15 +15,15 @@
 
   ## Credits
 
-  egarcia1868
+  [egarcia1868](https://github.com/egarcia1868)
 
   ## License
 
-  undefined 
+  [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)] 
 
   ## Contributing
 
-  nada
+  plenty
 
   ## Tests
 
@@ -31,5 +31,5 @@
 
   ## Questions
 
-  <img src="https://avatars3.githubusercontent.com/u/25162871?v=4" alt="avatar" style="width=58px"> Reach out to [egarcia1868](https://github.com/egarcia1868) for questions or concerns.
+  <img src="https://avatars3.githubusercontent.com/u/25162871?v=4" alt="avatar" style="width:58px"> Reach out to [egarcia1868](https://github.com/egarcia1868) for questions or concerns.
   

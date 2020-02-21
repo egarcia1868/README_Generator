@@ -1,35 +1,25 @@
+# README File Generator
 
-  # testeroni
+A simple scheduler for your current work day to organize your day's events and tasks.
 
-  ## Description 
+## Getting Started
 
-  tester
+Required dependencies:
+inquirer
+axios
+util
 
-  ## Installation
+To install the required dependencies, run the "npm i" command.
 
-  To install the required dependencies, run the following command: "npm i"
+## Usage
 
-  ## Usage 
+To use this to generate your own README, simply go clone this repo to your computer, navigate your command terminal to the "Develop" folder on your computer, enter "node index.js", answer the prompts, and voila!  Your README is now created in your "CREATED_README_FILE_HERE" folder.
 
-  testeroni
+## Authors
 
-  ## Credits
+* **Eric Garcia** - [egarcia1868](https://github.com/egarcia1868)
 
-  [egarcia1868](https://github.com/egarcia1868)
+## Acknowledgments
 
-  ## License
-
-  [![License](https://img.shields.io/badge/License-EPL%201.0-red.svg)](https://opensource.org/licenses/EPL-1.0)] 
-
-  ## Contributing
-
-  test
-
-  ## Tests
-
-  To run my tests, run the following command: "npm test"
-
-  ## Questions
-
-  <img src="https://avatars3.githubusercontent.com/u/25162871?v=4" alt="avatar" style="border-radius:58px"> Reach out to [egarcia1868](https://github.com/egarcia1868) for questions or concerns.
-  
+* Big ups to our instructor, Calvin Carter, and our TAs, Mark Alaniz & Amanda Padilla, as well as our Student Success Manager, Sean Fleming
+* Tons of help for this was found at w3schools (https://www.w3schools.com/), mozilla (https://developer.mozilla.org/), and various googleables

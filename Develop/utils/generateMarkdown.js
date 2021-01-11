@@ -32,7 +32,7 @@ To run my tests, run the following command: "${data.testCom}"
 
 ## Questions
 
-Reach out to [egarcia1868](https://github.com/egarcia1868) for questions or concerns.
+Reach out to [egarcia1868](https://github.com/) for questions or concerns.
 `
 
 }
